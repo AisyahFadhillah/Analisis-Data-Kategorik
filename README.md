@@ -1,1 +1,1 @@
-# Analisis-Data-Kategorik
+# categorical data analysis
